@@ -21,7 +21,9 @@ Ensure you have installed:
 ```bash
 git clone https://github.com/YOUR-USERNAME/secure-vault-solidity.git  
 cd secure-vault-solidity  
-npm install  
+npm install
+
+
 3️⃣ Compile the Smart Contract
 
 bash
